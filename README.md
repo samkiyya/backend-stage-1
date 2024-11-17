@@ -19,8 +19,8 @@ This project sets up a basic web server using raw Node.js without any external l
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/samkiyya/backend-stage-1.git
+   cd backend-stage-1
    ```
 
 2. Install dependencies (though none are needed here, as we're using raw Node.js).
